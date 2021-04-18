@@ -5,5 +5,6 @@
 
 - 安卓
     - [Handler消息机制解析和简单实现](/android/sample-handler.md)
+    - [朋友圈九宫格照片新玩法](/android/image-grid.md)
 
 - [关于](about.md)
